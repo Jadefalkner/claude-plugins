@@ -21,6 +21,21 @@
       },
       "license": "MIT",
       "keywords": ["diagrams", "svg", "sketchnote", "illustration", "kie.ai", "gemini"]
+    },
+    {
+      "name": "prettycomics",
+      "source": {
+        "source": "github",
+        "repo": "Jadefalkner/prettycomics",
+        "ref": "main"
+      },
+      "description": "Generate comic-style illustrations with reference images for style consistency, powered by Google Gemini",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jadefalkner"
+      },
+      "license": "MIT",
+      "keywords": ["comics", "illustration", "gemini", "manga", "cyberpunk", "pixel-art"]
     }
   ]
 }
